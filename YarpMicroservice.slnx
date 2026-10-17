@@ -42,6 +42,7 @@
     <Project Path="Services/Ticket/Src/Ticket.Application/Ticket.Application.csproj" />
     <Project Path="Services/Ticket/Src/Ticket.Domain/Ticket.Domain.csproj" />
     <Project Path="Services/Ticket/Src/Ticket.Infrastructure/Ticket.Infrastructure.csproj" />
+    <Project Path="Ticket.Common/Ticket.Common.csproj" Id="2d937f70-b8e8-471d-8b7f-905764285bd6" />
   </Folder>
   <Folder Name="/Services/Ticket/Test/">
     <Project Path="Services/Ticket/Test/Ticket.IntegrationTests/Ticket.IntegrationTests.csproj" />
