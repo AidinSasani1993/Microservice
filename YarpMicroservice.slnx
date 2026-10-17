@@ -1,0 +1,50 @@
+<Solution>
+  <Folder Name="/Gateway/">
+    <Project Path="Gateway/ApiGateway/ApiGateway.csproj" />
+  </Folder>
+  <Folder Name="/Services/" />
+  <Folder Name="/Services/Customer/" />
+  <Folder Name="/Services/Customer/Src/">
+    <Project Path="Services/Customer/Src/Customer.API/Customer.API.csproj" />
+    <Project Path="Services/Customer/Src/Customer.Application/Customer.Application.csproj" />
+    <Project Path="Services/Customer/Src/Customer.Domain/Customer.Domain.csproj" />
+    <Project Path="Services/Customer/Src/Customer.Infrastructure/Customer.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/Services/Customer/Test/">
+    <Project Path="Services/Customer/Test/Customer.IntegrationTests/Customer.IntegrationTests.csproj" />
+    <Project Path="Services/Customer/Test/Customer.UnitTests/Customer.UnitTests.csproj" />
+  </Folder>
+  <Folder Name="/Services/Identity/" />
+  <Folder Name="/Services/Identity/Src/">
+    <Project Path="Services/Identity/Src/Identity.API/Identity.API.csproj" />
+    <Project Path="Services/Identity/Src/Identity.Application/Identity.Application.csproj" />
+    <Project Path="Services/Identity/Src/Identity.Domain/Identity.Domain.csproj" />
+    <Project Path="Services/Identity/Src/Identity.Infrastructure/Identity.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/Services/Identity/Test/">
+    <Project Path="Services/Identity/Test/Identity.IntegrationTests/Identity.IntegrationTests.csproj" />
+    <Project Path="Services/Identity/Test/Identity.UnitTests/Identity.UnitTests.csproj" />
+  </Folder>
+  <Folder Name="/Services/Order/" />
+  <Folder Name="/Services/Order/Src/">
+    <Project Path="Services/Order/Src/Order.API/Order.API.csproj" />
+    <Project Path="Services/Order/Src/Order.Application/Order.Application.csproj" />
+    <Project Path="Services/Order/Src/Order.Domain/Order.Domain.csproj" />
+    <Project Path="Services/Order/Src/Order.Infrastructure/Order.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/Services/Order/Test/">
+    <Project Path="Services/Order/Test/Order.IntegrationTests/Order.IntegrationTests.csproj" />
+    <Project Path="Services/Order/Test/Order.UnitTests/Order.UnitTests.csproj" />
+  </Folder>
+  <Folder Name="/Services/Ticket/" />
+  <Folder Name="/Services/Ticket/Src/">
+    <Project Path="Services/Ticket/Src/Ticket.API/Ticket.API.csproj" />
+    <Project Path="Services/Ticket/Src/Ticket.Application/Ticket.Application.csproj" />
+    <Project Path="Services/Ticket/Src/Ticket.Domain/Ticket.Domain.csproj" />
+    <Project Path="Services/Ticket/Src/Ticket.Infrastructure/Ticket.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/Services/Ticket/Test/">
+    <Project Path="Services/Ticket/Test/Ticket.IntegrationTests/Ticket.IntegrationTests.csproj" />
+    <Project Path="Services/Ticket/Test/Ticket.UnitTests/Ticket.UnitTests.csproj" />
+  </Folder>
+</Solution>
