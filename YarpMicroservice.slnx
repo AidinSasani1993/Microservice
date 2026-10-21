@@ -47,5 +47,9 @@
   <Folder Name="/Services/Ticket/Test/">
     <Project Path="Services/Ticket/Test/Ticket.IntegrationTests/Ticket.IntegrationTests.csproj" />
     <Project Path="Services/Ticket/Test/Ticket.UnitTests/Ticket.UnitTests.csproj" />
+    <Project Path="Ticket.Api.Test/Ticket.Api.Test.csproj" Id="69b999d9-79fa-4de5-b77e-3f7fc4cefb05" />
+    <Project Path="Ticket.Application.Test/Ticket.Application.Test.csproj" Id="22e0feb1-ecbb-4b08-a24e-83dc843d092e" />
+    <Project Path="Ticket.Domain.Test/Ticket.Domain.Test.csproj" Id="243db743-d91f-435f-9617-3430f485fb58" />
+    <Project Path="Ticket.Infrastructure.Test/Ticket.Infrastructure.Test.csproj" Id="c0c6271e-3ef6-4d83-a8aa-ac1a106438b6" />
   </Folder>
 </Solution>
